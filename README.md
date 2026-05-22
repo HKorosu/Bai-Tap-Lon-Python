@@ -131,7 +131,7 @@ Lần đầu chạy, hệ thống sẽ:
 ## 📺 Video Demo
 
 Link demo đầy đủ:
-**[Xem video demo trên Google Drive](https://drive.google.com/your-video-link-here)**
+**[Xem video demo trên Google Drive](https://drive.google.com/file/d/10RHhk0q3HbmFZElamin1kNphKyud2nFg/view?usp=drive_link)**
 
 Nội dung video:
 - ✅ Khởi động ứng dụng
